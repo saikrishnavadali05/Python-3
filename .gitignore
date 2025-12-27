@@ -1,0 +1,106 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# Virtual Environments
+# ==============================
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# ==============================
+# Packaging / Distribution
+# ==============================
+build/
+dist/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ==============================
+# Unit test / coverage reports
+# ==============================
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# ==============================
+# Logs
+# ==============================
+*.log
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ==============================
+# IDE / Editor
+# ==============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==============================
+# OS Files
+# ==============================
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Environment Variables
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# PyCharm
+# ==============================
+*.iml
+
+# ==============================
+# MyPy / Static type checking
+# ==============================
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# ==============================
+# Pyre
+# ==============================
+.pyre/
+
+# ==============================
+# Ruff / Linting
+# ==============================
+.ruff_cache/
+
+# ==============================
+# Local data / secrets
+# ==============================
+data/
+secrets/
+
+# ==============================
+# Personal folder files
+# ==============================
+desktop.ini
